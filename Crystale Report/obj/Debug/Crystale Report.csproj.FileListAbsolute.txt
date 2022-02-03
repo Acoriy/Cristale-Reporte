@@ -1,0 +1,30 @@
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\Crystale Report.exe
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\Crystale Report.pdb
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\stdole.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\obj\Debug\Crystale Report.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\obj\Debug\Crystale_Report.Form1.resources
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\obj\Debug\Crystale_Report.Properties.Resources.resources
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\obj\Debug\Crystale Report.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\obj\Debug\Crystale Report.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\obj\Debug\Crystale Report.csproj.CopyComplete
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\obj\Debug\Crystale Report.exe
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\obj\Debug\Crystale Report.pdb
+C:\Users\Dell\Desktop\C sharp\Crystale Report\Crystale Report\bin\Debug\Crystale Report.exe.config
